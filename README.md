@@ -1,32 +1,58 @@
-<div align="center"> <!-- HERO BANNER --> <img src="assets/banner.svg?v=5" width="100%" alt="Abhishek Jaiswal Hero Banner" /> <br/> <!-- TYPING ANIMATION --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=700&height=70&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+System+Designer+%7C+Builder;Crafting+high-performance+digital+experiences+from+scratch" alt="Typing SVG" /> <br/> <!-- BADGES --> <img src="https://komarev.com/ghpvc/?username=abhijaiswal1289&label=Profile%20Views&color=00f0ff&style=for-the-badge" alt="Profile Views" /> <img src="https://img.shields.io/github/stars/abhijaiswal1289?style=for-the-badge&label=Stars&color=8a2be2&logo=github&logoColor=white" alt="Stars" /> <img src="https://img.shields.io/github/followers/abhijaiswal1289?style=for-the-badge&label=Followers&color=ff0055&logo=github&logoColor=white" alt="Followers" />
+<div align="center">
 
-<br/><br/>
+# 👋 Hello, I'm *Abhishek Jaiswal*
 
-<!-- SOCIAL LINKS --> <a href="https://abhibuld.tech" target="_blank"> <img src="https://img.shields.io/badge/🌐_abhibuld.tech-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00f0ff" alt="Website" /> </a> <a href="mailto:abhishekjaswalrrinstitute@gmail.com"> <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=ff0055" alt="Gmail" /> </a> <a href="https://www.linkedin.com/in/abhishek-jaiswal-59662a-41b"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8a2be2" alt="LinkedIn" /> </a> <a href="https://leetcode.com/lb9eb6eOSO/"> <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=ffcc00" alt="LeetCode" /> </a> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> <!-- ========================================== --> <!-- 🏆 TROPHIES --> <!-- ========================================== --> <div align="center"> <img src="https://github-trophies.vercel.app/?username=abhijaiswal1289&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" /> </div> <br/> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> <!-- ========================================== --> <!-- 💫 ABOUT ME --> <!-- ========================================== --> <table align="center" width="100%" border="0" cellpadding="10" cellspacing="0"> <tr> <td width="60%" valign="top">
-💫 About Me
+### 💻 Full-Stack Developer • ⚙️ System Designer
 
+*Building scalable, secure & high-performance digital experiences.*
 
+<br>
 
-Hey! I'm Abhishek Jaiswal, a full-stack developer dedicated to building high-performance web applications, optimizing backend architectures, and mastering algorithmic systems. I design, code, and deploy everything from scratch — focusing on scalability, security, and clean architecture.
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/💻_GitHub-111827?style=for-the-badge&logo=github">
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin">
+</a>
+&nbsp;
+<a href="YOUR_LEETCODE_LINK">
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode">
+</a>
 
-🌱 Primary Focus: Full-stack web development, backend engineering & system design
+<br><br>
 
-🌐 Mission: Building & sharing open-source tools on abhibuld.tech
+---
 
-⚡ Daily Grind: Solving DSA on LeetCode
+### 📊 GitHub Statistics
 
-💬 Languages: Python, JavaScript, TypeScript, C++, Java, SQL
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
 
-<br/>
-🌟 Key Highlights
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%">
 
-🏆 1,000+ GitHub Contributions — active every day
+<br><br>
 
-♟️ Built Premium-Chess Engine — multiplayer game hub
+### 🛠️ Tech Stack
 
-🚀 Creator & admin of abhibuld.tech utilities hub
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,express,mysql,git,github,vscode" />
 
-📊 5k+ community members
+<br><br>
+
+---
+
+### 🚀 About Me
+
+I'm Abhishek Jaiswal, a developer interested in building
+*high-performance applications, backend systems and scalable software.*
+
+I enjoy learning *DSA, Web Development, System Design and Cybersecurity*
+and turning ideas into practical projects.
+
+</div>
 
 </td> <td width="40%" valign="top" align="center"> <br/> <img src="assets/id-card.svg?v=3" width="280" alt="Developer ID Card Animation" /> </td> </tr> </table> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> <!-- ========================================== --> <!-- 🎯 CURRENTLY --> <!-- ========================================== --> <div align="center">
 🎯 What I'm Up To
