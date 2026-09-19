@@ -12,15 +12,15 @@
   <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white">
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/abhijaiswal12989">
   <img src="https://img.shields.io/badge/💻_GitHub-111827?style=for-the-badge&logo=github">
 </a>
 &nbsp;
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/abhishek-jaiswal-59662a41b">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin">
 </a>
 &nbsp;
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/lb9eb6eOSO">
   <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode">
 </a>
 
